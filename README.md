@@ -1,6 +1,10 @@
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/nerdwallet6/ai-excited-entry/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/nerdwallet6/ai-excited-entry/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
 # ai-excited-01 — Phoenix
 
-Entry for the make.fun `ai-excited-01` bounty.
+Entry for the [make.fun `ai-excited-01` bounty](https://make.fun/bounty/ai-excited-01).
 
 The image is a phoenix bursting out of a golden picture frame — the
 moment the picture stops being a picture and comes alive.
